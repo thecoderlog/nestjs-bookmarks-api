@@ -4,7 +4,7 @@ A complete REST API built with **NestJS 11**, **Prisma**, and **SQLite** — a B
 
 This is the companion code for the tutorial **"NestJS REST API Tutorial for C# & Angular Developers"** — built to map concepts you already know from .NET and Angular (dependency injection, decorators, modules) straight onto NestJS.
 
-📺 **Watch the tutorial:** <VIDEO_URL>
+📺 **Watch the tutorial:** [NestJS REST API Tutorial for C# & Angular Developers](https://youtu.be/kLrkUh4VjVk)
 
 ## Stack
 
